@@ -1,0 +1,23 @@
+# dune exec day_01
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/curtisault/.cache/dune/db
+# Workspace root: /Users/curtisault/learn/ocaml/tcc23/day_01
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/curtisault/learn/ocaml/tcc23/day_01/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/curtisault/.opam/default/bin/ocamlc.opt -config > /var/folders/5k/p_wmdh7511v1cq8q2f7xb72c0000gn/T/dune_d372eb_output
